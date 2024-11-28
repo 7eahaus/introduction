@@ -1,4 +1,4 @@
-# TEAHAUS SHINDAN
+# TeaHaus Shindan
 Hi, my name is TeaHaus Shindan, an online alias to protect my real name. I'm a self-taught writer, artist, and aspiring web designer and developer. I have skills in HTML and CSS, and I'm currently learning JavaScript. I'm 26 years old, based in Michigan, USA living with my partner and 3 black cats. My hobbies include playing video games, writing, drawing, and learning about coding.
 
 <!---
