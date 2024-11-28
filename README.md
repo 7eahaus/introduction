@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @7eahaus
-- 👀 I’m interested in ... web design and development.
-- 🌱 I’m currently learning ... JavaScript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Discord (7eahaus, khumbuice)
-- 😄 Pronouns: ... he/him/his
-- ⚡ Fun fact: ... We're a DID System. If you don't know what that means, visit [this site](https://whatisdid.com)
+# TEAHAUS SHINDAN
+Hi, my name is TeaHaus Shindan, an online alias to protect my real name. I'm a self-taught writer, artist, and aspiring web designer and developer. I have skills in HTML and CSS, and I'm currently learning JavaScript. I'm 26 years old, based in Michigan, USA living with my partner and 3 black cats. My hobbies include playing video games, writing, drawing, and learning about coding.
 
 <!---
-7eahaus/7eahaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+7eahaus/hello-world is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
